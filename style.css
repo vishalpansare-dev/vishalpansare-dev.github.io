@@ -84,3 +84,7 @@ footer {
     padding: 1rem;
     margin-top: 20px;
 }
+nav ul li a.active {
+    color: #ff6347; /* Highlight color */
+    font-weight: bold;
+}
